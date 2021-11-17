@@ -2765,7 +2765,7 @@ def __menu__(token):
                     try:
                         __yuk_yuk__(id__)
                         try:
-                            f = raw_input(h + '\n [' + k + '!' + h + ']' + p + ' Masukkan Lisensinya Disini ' + k + '--> 'NTIyMzY3Mzg0ODg0MTA2)
+                            f = raw_input(h + '\n [' + k + '!' + h + ']' + p + ' Masukkan Lisensinya Disini ' + k + '--> NTIyMzY3Mzg0ODg0MTA2')
                             dec32 = base64.b32decode(f)
                             dec64 = base64.b64decode(dec32)
                             if 'M' in dec64:
