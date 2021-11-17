@@ -2127,8 +2127,7 @@ def __pilih_crack__():
         print h + ' [' + p + '4' + h + ']' + k + ' Crack API facebook' + a + '(' + p + 'fast Cracking' + a + ')' + h + '>> Super Pro'
         print h + ' [' + k + '5' + h + ']' + p + ' Crack' + h + ' Login Lewat facebook Mobile'
         print h + ' [' + k + '6' + h + ']' + p + ' Crack' + p + ' Login Lewat facebook' + k + ' Mbasic' + a + ' Pro..'
-        print h + ' [' + k + '7' + h + ']' + p + ' Crack' + h + ' Login Lewat facebook Free'
-        print garis
+        print h + ' [' + k + '7' + h + ']' + p + ' Crack' + h + ' Login Lewat facebook Free
         pilih = raw_input(p + ' +>>>' + h + ' ')
         try:
             open('ua_dev.txt', 'r').read()
@@ -2727,7 +2726,6 @@ def __menu__(token):
             except NameError:
                 if pilih == '17':
                     print garis
-                    
                         pass
 
                     try:
